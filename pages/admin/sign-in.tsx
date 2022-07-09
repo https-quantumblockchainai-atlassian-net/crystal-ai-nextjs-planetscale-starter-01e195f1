@@ -1,4 +1,4 @@
-import { getCsrfToken, getSession, signIn } from "next-auth/react";
+importimport { getCsrfToken, getSession, signIn } from "next-auth/react";
 import { GetServerSidePropsContext } from "next";
 import Head from "next/head";
 import React from "react";
