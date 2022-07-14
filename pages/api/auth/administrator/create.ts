@@ -1,4 +1,4 @@
-import { NextApiRequest, NextApiResponse } from "next";
+importimport { NextApiRequest, NextApiResponse } from "next";
 import nc from "next-connect";
 import { hashPassword } from "@lib/auth/passwords";
 import prisma from "@db";

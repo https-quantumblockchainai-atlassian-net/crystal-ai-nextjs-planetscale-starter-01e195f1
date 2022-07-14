@@ -1,4 +1,4 @@
-import { useQuery } from "react-query";
+importimport { useQuery } from "react-query";
 import { useSession } from "next-auth/react";
 import { useRouter } from "next/router";
 import { ChevronRightIcon } from "@heroicons/react/solid";
