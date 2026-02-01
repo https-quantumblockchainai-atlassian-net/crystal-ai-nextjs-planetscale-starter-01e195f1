@@ -9,6 +9,7 @@ We have configured this template for you to one-click deploy directly to Netlify
 [🖼 Live Demo](https://nextjs-planetscale-starter.netlify.app/)
 
 ![Example login screen](https://cdn.sanity.io/images/f1avhira/production/9767f106ce5d17f93054ba6ee8a930c546283348-2874x1586.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcrystal-ai-nextjs-planetscale-starter-01e195f1.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcrystal-ai-nextjs-planetscale-starter-01e195f1?ref=badge_shield)
 
 ## 🥞 Stack
 
@@ -62,3 +63,7 @@ This application is close to production ready, but there are a few things you wi
 We've left this implementation up to the user because we did not want to make adding an email provider a requirement. The default `VerificationToken` schema has the basics required for implementing sign up verification, or password reset requests.
 - **API Security:** Although NextAuth.js can be used for authentication, it does not provide authorization out of the box. The application comes with and example of protecting API routes using NextAuth.js. It does not cover things like making sure only administrators can access certain routes or making sure that only a user is able to update their account. 
 - **Multiple admin accounts**
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcrystal-ai-nextjs-planetscale-starter-01e195f1.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fcrystal-ai-nextjs-planetscale-starter-01e195f1?ref=badge_large)
